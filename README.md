@@ -1,2 +1,2 @@
 # demo-work
-This is mt first git repository
+This is my first git repository 
